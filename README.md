@@ -1,1 +1,1 @@
-# Alarm-clock-with-GUI_codeclause
+An alarm clock with a GUI (Graphical User Interface) is a digital clock application that includes a user-friendly visual interface for setting alarms, displaying time, and managing alarm settings. It provides a more interactive and intuitive way for users to interact with the alarm clock's features compared to traditional alarm clocks.
